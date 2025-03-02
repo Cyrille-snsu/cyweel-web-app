@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as s,c as t,b as c}from"./app-DkVHQ-2S.js";const r={},a={class:"flex items-center"};function n(l,e){return s(),t("div",a,e[0]||(e[0]=[c("img",{src:"/images/cyweel photos/navbarlogo.png",alt:"Cyweel Hotels",class:"h-12 w-auto"},null,-1)]))}const p=o(r,[["render",n]]);export{p as A};
